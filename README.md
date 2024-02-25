@@ -5,7 +5,7 @@ This project is a simple cryptocurrency to fiat currency converter tool, designe
 Installation
 To install this project, simply clone the repository and install the necessary dependencies using the following commands:
 
-git clone https://github.com/yourusername/cryptocurrency-converter.git
+git clone https://github.com/osto79/cryptocurrency-converter.git
 cd cryptocurrency-converter
 npm install
 Usage
@@ -21,7 +21,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-If you have any questions or feedback, please feel free to contact us at your-email@example.com.
+If you have any questions or feedback, please feel free to contact us at searlsgroupllc.prez1@outlook.com
+
 
 Thank you for using our cryptocurrency to fiat currency converter! We hope it serves you well.
 
